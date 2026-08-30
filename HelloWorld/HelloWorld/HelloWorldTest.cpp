@@ -1,5 +1,6 @@
 #include "HelloWorld.h"
 #include <iostream>
+//References: Used Dr. Feuz's PalidromeTest.cpp as a template and Google Gemini to help learn how to write unit test for Hello World.
 
 using std::cout;
 using std::endl;
